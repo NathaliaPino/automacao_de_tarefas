@@ -1,6 +1,6 @@
 # 🛠️ Automação de Cadastro de Produtos com PyAutoGUI
 
-Este projeto utiliza **PyAutoGUI** para automatizar o processo de cadastro de produtos em um site. A automação interage diretamente com o navegador, preenchendo formulários de maneira repetitiva, economizando tempo e esforço em processos manuais.
+Este projeto utiliza **PyAutoGUI** para automatizar o processo de cadastro de produtos. A automação interage diretamente com o navegador, preenchendo formulários de maneira repetitiva, economizando tempo e esforço em processos manuais.
 
 ## 📋 Funcionalidades
 
